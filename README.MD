@@ -1,8 +1,8 @@
 # To Run the Website
 
-## -- cd api
+### cd api
 ## nodemon app.js
 
-## -- cd dormfinder
-# npm run dev
+### cd dormfinder
+## npm run dev
 
